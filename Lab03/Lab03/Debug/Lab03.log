@@ -1,0 +1,17 @@
+﻿  lab03-drhodes3.cpp
+c:\users\dylan rhodes\documents\github\lab3-dylanrhodes0\lab03\lab03\lab03-drhodes3.cpp(86): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  c:\users\dylan rhodes\documents\github\lab3-dylanrhodes0\lab03\lab03\lab03-drhodes3.cpp(141): note: see reference to function template instantiation 'T strangesumfunc<float>(int,T)' being compiled
+          with
+          [
+              T=float
+          ]
+c:\users\dylan rhodes\documents\github\lab3-dylanrhodes0\lab03\lab03\lab03-drhodes3.cpp(90): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\dylan rhodes\documents\github\lab3-dylanrhodes0\lab03\lab03\lab03-drhodes3.cpp(95): warning C4305: 'initializing': truncation from 'double' to 'float'
+  c:\users\dylan rhodes\documents\github\lab3-dylanrhodes0\lab03\lab03\lab03-drhodes3.cpp(148): note: see reference to function template instantiation 'void puzzlefunc<float>(T)' being compiled
+          with
+          [
+              T=float
+          ]
+c:\users\dylan rhodes\documents\github\lab3-dylanrhodes0\lab03\lab03\lab03-drhodes3.cpp(95): warning C4305: '+=': truncation from 'double' to 'float'
+  Lab03.vcxproj -> C:\Users\Dylan Rhodes\Documents\GitHub\lab3-dylanrhodes0\Lab03\Debug\Lab03.exe
+  Lab03.vcxproj -> C:\Users\Dylan Rhodes\Documents\GitHub\lab3-dylanrhodes0\Lab03\Debug\Lab03.pdb (Partial PDB)
